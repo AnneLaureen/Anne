@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    
+
     background-color: #1e1e38;
     color: #fff;
     padding: 10px 0;
@@ -45,9 +45,7 @@ h2 {
 }
 
 h3 {
-    background-color: #303063;
-    padding: 10px 0;
-    color: #ffffff;
+    color: #1e1e38;
     margin-bottom: 20px;
     width: 6.%;
 }
